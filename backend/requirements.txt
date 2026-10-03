@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+python-multipart
+chromadb
+pymupdf
+trafilatura
+beautifulsoup4
+youtube-transcript-api
+google-genai
+tiktoken
+langchain
+langchain-core
+langchain-chroma
+langchain-google-genai
